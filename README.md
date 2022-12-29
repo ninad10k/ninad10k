@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ninad10k
+- 👀 I’m interested in Frontend-technologies
+- 🌱 I’m currently Working As a Software Engineer  
